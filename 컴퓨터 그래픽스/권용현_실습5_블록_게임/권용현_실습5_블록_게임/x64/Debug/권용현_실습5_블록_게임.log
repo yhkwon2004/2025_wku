@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\user\Downloads\권용현_실습5_블록_게임\main.cpp(33,24): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Downloads\권용현_실습5_블록_게임\main.cpp(33,30): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Downloads\권용현_실습5_블록_게임\main.cpp(33,36): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Downloads\권용현_실습5_블록_게임\main.cpp(33,41): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Downloads\권용현_실습5_블록_게임\main.cpp(33,46): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Downloads\권용현_실습5_블록_게임\main.cpp(33,52): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Downloads\권용현_실습5_블록_게임\main.cpp(33,58): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Downloads\권용현_실습5_블록_게임\main.cpp(33,63): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Downloads\권용현_실습5_블록_게임\main.cpp(34,24): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Downloads\권용현_실습5_블록_게임\main.cpp(34,29): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Downloads\권용현_실습5_블록_게임\main.cpp(34,34): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Downloads\권용현_실습5_블록_게임\main.cpp(34,39): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Downloads\권용현_실습5_블록_게임\main.cpp(34,44): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Downloads\권용현_실습5_블록_게임\main.cpp(34,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Downloads\권용현_실습5_블록_게임\main.cpp(34,54): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Downloads\권용현_실습5_블록_게임\main.cpp(34,59): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+  권용현_실습5_블록_게임.vcxproj -> C:\Users\user\Downloads\권용현_실습5_블록_게임\x64\Debug\권용현_실습5_블록_게임.exe
