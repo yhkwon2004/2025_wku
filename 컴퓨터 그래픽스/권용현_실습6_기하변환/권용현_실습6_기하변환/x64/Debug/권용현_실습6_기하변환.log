@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\user\source\repos\권용현_실습6_기하변환\권용현_실습6_기하변환\main.cpp(29,14): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+  권용현_실습6_기하변환.vcxproj -> C:\Users\user\source\repos\권용현_실습6_기하변환\x64\Debug\권용현_실습6_기하변환.exe
